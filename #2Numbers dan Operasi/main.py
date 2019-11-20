@@ -20,5 +20,7 @@ print("Modulus a % b = ", a % b)
 #Sisa Bagi di bulatkan ke bawah
 print("Sisa Bagi Dibulatkan a // b = ", a // b)
 
+#Pangkat
+print("Perpangkatan a ** b = ", a ** b)
 
 
