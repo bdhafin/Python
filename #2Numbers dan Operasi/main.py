@@ -14,3 +14,6 @@ print("Perkalian a * b = ", a * b)
 #Pembagian
 print("Pembagian a / b = ", a / b)
 
+#Modulus
+print("Modulus a % b = ", a % b)
+
