@@ -2,6 +2,9 @@ a = 5
 b = 3
 c = 4.0
 
+print("Nilai A : ", a)
+print("Nilai B : ", b, "\n")
+
 #Penjumlahan
 print("Penjumlahan a + b = ", a + b)
 
