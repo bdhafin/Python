@@ -3,4 +3,7 @@ b = 3
 c = 4.0
 
 #Penjumlahan
-print("penjumlahan a + b = ", a + b)
+print("Penjumlahan a + b = ", a + b)
+
+#Pengurangan
+print("Pengurangan a - b = ", a - b)
