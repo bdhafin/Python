@@ -10,3 +10,7 @@ print("Pengurangan a - b = ", a - b)
 
 #Perkalian
 print("Perkalian a * b = ", a * b)
+
+#Pembagian
+print("Pembagian a / b = ", a / b)
+
