@@ -9,7 +9,7 @@ def rubah_nama_kucing(namaBaru):
     print('Saya rubah nama kucing menjadi', namaKucing)
 
 def kasih_makan_kucing(makanan, nama):
-    #mengakses variable global
+    #mengakses variable global (scope global)
     global namaKucing,makananKucing
     namaKucing = nama
     makananKucing = makanan
