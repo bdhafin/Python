@@ -32,4 +32,24 @@ elif 50 <= nilaiUjian < 60:
     print("Nilai anda adalah D, lalukan perbaikan")
 else:
     print("maaf anda tidak lulus mata kuliah ini")
-        
+
+print("*" * 100)
+print("Operator logika untuk list dan string\n")
+
+gorengan = ['bakwan', 'cireng', 'bala-bala', 'gehu', 'combro', 'pisang goreng', 'pukis', 'risoles']
+beli =  'cireng'
+
+#Cara mencari sebuah elemen dari list dengan if
+if beli in gorengan:
+    print("Ya saya ada jual", beli)
+
+#Cara lain untuk else
+if not beli in gorengan:
+    print("Gaada saya jual", beli)
+
+#Cara mencari sebuah karakter di sebuah string
+karakter = 'z'
+if karakter in beli:
+    print("ada ", karakter, " di ", beli)
+else:
+    print("tidak ada", karakter, "di", beli)
